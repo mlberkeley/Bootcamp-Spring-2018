@@ -1,0 +1,4 @@
+gym==0.3
+tensorflow==0.12
+numpy
+matplotlib
